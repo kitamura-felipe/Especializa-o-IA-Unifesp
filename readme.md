@@ -2,8 +2,7 @@
 
 ● Tipo de publicação: Livro - Andrew Ng Machine Learning Yearning 1ª ed. Editora:
 Deeplearning.ai - Ano: 2018 - Volume(s): Não se aplica - Capítulo(s): Não se aplica
-- Páginas(s): 165 – Link: https://info.deeplearning.ai/machine-learning-yearning-
-book
+- Páginas(s): 165 – Link: https://info.deeplearning.ai/machine-learning-yearning-book
 
 ● Tipo de publicação: Artigo - KITAMURA, FELIPE CAMPOS; PREVEDELLO,
 LUCIANO M. ; COLAK, ERROL ; HALABI, SAFWAN S. ; LUNGREN, MATTHEW P.
